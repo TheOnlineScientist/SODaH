@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Attending conferences Archives - SODaH</title>
+	<atom:link href="/SODaH/tag/attending/feed/" rel="self" type="application/rss+xml" />
+	<link>/SODaH/tag/attending/</link>
+	<description>Software defined space Optical Data Highway - H2020</description>
+	<lastBuildDate>Wed, 11 Sep 2019 16:47:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>DAS @ International Conference on Space Optics 2020</title>
+		<link>/SODaH/das-international-conference-on-space-optics-2020/</link>
+		
+		<dc:creator><![CDATA[liesbeth smit]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 10:11:19 +0000</pubDate>
+				<category><![CDATA[news]]></category>
+		<category><![CDATA[Attending conferences]]></category>
+		<guid isPermaLink="false">/SODaH/?p=504</guid>
+
+					<description><![CDATA[<p>The post <a href="/SODaH/das-international-conference-on-space-optics-2020/">DAS @ International Conference on Space Optics 2020</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/SODaH/das-international-conference-on-space-optics-2020/">DAS @ International Conference on Space Optics 2020</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sodern @ ICSOS 2019</title>
+		<link>/SODaH/sodern-icsos-2019/</link>
+		
+		<dc:creator><![CDATA[liesbeth smit]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2019 10:00:55 +0000</pubDate>
+				<category><![CDATA[news]]></category>
+		<category><![CDATA[Attending conferences]]></category>
+		<guid isPermaLink="false">/SODaH/?p=486</guid>
+
+					<description><![CDATA[<p>The post <a href="/SODaH/sodern-icsos-2019/">Sodern @ ICSOS 2019</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/SODaH/sodern-icsos-2019/">Sodern @ ICSOS 2019</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DAS mention @ HORIZON2020 Space International Information Day</title>
+		<link>/SODaH/das-mention-horizon2020-space-international-information-day/</link>
+		
+		<dc:creator><![CDATA[liesbeth smit]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2018 10:10:03 +0000</pubDate>
+				<category><![CDATA[news]]></category>
+		<category><![CDATA[Attending conferences]]></category>
+		<guid isPermaLink="false">/SODaH/?p=502</guid>
+
+					<description><![CDATA[<p>The post <a href="/SODaH/das-mention-horizon2020-space-international-information-day/">DAS mention @ HORIZON2020 Space International Information Day</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/SODaH/das-mention-horizon2020-space-international-information-day/">DAS mention @ HORIZON2020 Space International Information Day</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

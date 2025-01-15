@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Announcement Archives - SODaH</title>
+	<atom:link href="/SODaH/tag/announcement/feed/" rel="self" type="application/rss+xml" />
+	<link>/SODaH/tag/announcement/</link>
+	<description>Software defined space Optical Data Highway - H2020</description>
+	<lastBuildDate>Tue, 31 Mar 2020 10:22:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>DAS @ Short announcement in the magazine Proespacio No. 41, p. 34, Jan. 2019</title>
+		<link>/SODaH/das-sodah-announcement-in-proespacio-no-41/</link>
+		
+		<dc:creator><![CDATA[liesbeth smit]]></dc:creator>
+		<pubDate>Fri, 04 Jan 2019 10:11:20 +0000</pubDate>
+				<category><![CDATA[news]]></category>
+		<category><![CDATA[Announcement]]></category>
+		<guid isPermaLink="false">/SODaH/?p=505</guid>
+
+					<description><![CDATA[<p>Download the magazine (PDF)</p>
+<p>The post <a href="/SODaH/das-sodah-announcement-in-proespacio-no-41/">DAS @ Short announcement in the magazine Proespacio No. 41, p. 34, Jan. 2019</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://pdfonline.tedae.org/proespacio_41_es/mobile/index.html">Download the magazine (PDF)</a></p>
+<p>The post <a href="/SODaH/das-sodah-announcement-in-proespacio-no-41/">DAS @ Short announcement in the magazine Proespacio No. 41, p. 34, Jan. 2019</a> appeared first on <a href="/SODaH/">SODaH</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
